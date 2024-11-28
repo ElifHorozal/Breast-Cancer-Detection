@@ -8,7 +8,8 @@ This project explores different methods for breast cancer detection using the Br
 
 
 ## Dataset
-The dataset used for this project can be found here: Breast Cancer Dataset
+The dataset used for this project can be found here:
+[Breast Cancer Dataset](http://archive.ics.uci.edu/dataset/14/breast+cancer)
 
 ## Methods and Implementation
 ### Part 1: Custom Naïve Bayes Implementation
