@@ -41,5 +41,5 @@ Gaussian Naïve Bayes	92.98%
 Logistic Regression	96.49%
 
 
-### Results and Conclusion
+## Results and Conclusion
 The results indicate that Logistic Regression performed the best on the Breast Cancer Wisconsin Dataset with an accuracy of 96.49%, followed by Gaussian Naïve Bayes (92.98%) and the custom implementation (81.58%).
